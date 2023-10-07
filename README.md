@@ -1,3 +1,4 @@
+<img src="https://ibb.co/Js3Zv97" width="100%" height="100%" alt="Welcome to My Profile" />
 <h2 align="center">Hi 👋! My name is Shubham Vishwakarma and I'm a Web Developer from Bharat</h2>
 
 ###
@@ -64,21 +65,21 @@
 ###
 
 <br clear="both">
-
+<!---
 <img src="https://raw.githubusercontent.com/SHUBHAM77108/SHUBHAM77108/output/snake.svg" alt="Snake animation" />
-
+--->
 ###
-
+<!---
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SHUBHAM77108.SHUBHAM77108&left_text=Shubham77108"  />
-
+--->
 ###
-
+<!---
 <div align="center">
   <a href="https://open.spotify.com/user/31yar34bvr5yvi67tsheg6o4f4z4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
   </a>
 </div>
-
+--->
 ###
 <!---
 SHUBHAM77108/SHUBHAM77108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
