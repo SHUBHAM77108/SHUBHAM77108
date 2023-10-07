@@ -1,4 +1,4 @@
-<img src="https://ibb.co/Js3Zv97" width="100%" height="100%" alt="Welcome to My Profile" />
+<img src="https://github.com/SHUBHAM77108/SHUBHAM77108/blob/main/banner.png" width="100%" height="100%" alt="Welcome to My Profile" />
 <h2 align="center">Hi 👋! My name is Shubham Vishwakarma and I'm a Web Developer from Bharat</h2>
 
 ###
