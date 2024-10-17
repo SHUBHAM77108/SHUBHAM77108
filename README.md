@@ -62,17 +62,15 @@
   </a>
 </div>
 
-###
-
 <br clear="both">
 <!---
 <img src="https://raw.githubusercontent.com/SHUBHAM77108/SHUBHAM77108/output/snake.svg" alt="Snake animation" />
 --->
-###
+<!-- ### -->
 <!---
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SHUBHAM77108.SHUBHAM77108&left_text=Shubham77108"  />
 --->
-###
+<!-- ### -->
 <!---
 <div align="center">
   <a href="https://open.spotify.com/user/31yar34bvr5yvi67tsheg6o4f4z4">
